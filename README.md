@@ -4,7 +4,7 @@
 
 > Transformando datos complejos en arquitecturas cloud escalables, gobernadas y listas para la Inteligencia Artificial.
 
-📍 Las Palmas de Gran Canaria, España · 🌐 [Mi web](https://my-landing-page-amf.pages.dev/?lang=es) · 💼 Ingeniero de Telecomunicación (ULPGC)
+📍 Las Palmas de Gran Canaria, España · 🌐 [Mi web](https://carlos-suarez-santana.pages.dev/?lang=es) · 💼 Ingeniero de Telecomunicación (ULPGC)
 
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
