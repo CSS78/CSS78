@@ -112,7 +112,7 @@ ERP, e-commerce y logística para retail internacional.
 - Iniciación al Desarrollo con Inteligencia Artificial — BIG School · *junio 2026*
 - Curso Completo de Claude — G-Talent · *junio 2026*
 
-**Idiomas:** Español (nativo) · Inglés (intermedio / avanzado)
+**Idiomas:** Español (nativo) · Inglés (avanzado)
 
 ---
 
