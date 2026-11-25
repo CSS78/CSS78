@@ -116,4 +116,4 @@ ERP, e-commerce y logística para retail internacional.
 
 ---
 
-<sub>Más detalle sobre mi trayectoria en <a href="https://my-landing-page-amf.pages.dev/?lang=es">mi web</a>.</sub>
+<sub>Más detalle sobre mi trayectoria en <a href="https://carlos-suarez-santana.pages.dev/?lang=es">mi web</a>.</sub>
